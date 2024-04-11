@@ -1,6 +1,6 @@
-This repository contains data used in the study entitled "Estimating Positional Plus-Minus in the NBA", which was submitted to the research paper competition at the 2023 MIT Sloan Sports Analytics Conference.
+This repository contains data used in the study entitled "Estimating Positional Plus-Minus in the NBA".
 
-data/stint contains NBA stint data from 2015-16 to 2021-22. 2019-20 season data are not included. Stint data are extracted from NBA play-by-play data sets.
+##data/stint## contains NBA stint data from 2015-16 to 2021-22. 2019-20 season data are not included. Stint data are extracted from NBA play-by-play data sets.
 
 data/stint_garbage contains the same stint data as the data from data/stint, except they are extracted from NBA play-by-play data sets with garbage time removed.
 
